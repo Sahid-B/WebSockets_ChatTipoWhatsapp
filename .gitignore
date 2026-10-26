@@ -1,0 +1,11 @@
+
+node_modules/
+server/data/
+.codex-backups/
+.env
+
+tests/stage2-fixture.json
+
+
+tests/nine-fixture.json
+

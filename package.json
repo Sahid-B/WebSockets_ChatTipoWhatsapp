@@ -1,0 +1,17 @@
+{
+  "name": "chat-websocket",
+  "version": "1.0.0",
+  "description": "Esqueleto funcional de chat grupal con WebSockets (Express + ws).",
+  "type": "module",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
